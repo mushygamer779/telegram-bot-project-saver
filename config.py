@@ -1,3 +1,4 @@
-TOKEN = "8311522384:AAFne53myZiUMh7lGHvHUNLvwwVTCr9QNBA"
+TOKEN = "8311522312wasdsa0wiiqn wnidjiwja-okwsidnwajskdmowaiwsjdjanwojda"
+
 
 DATABASE = "project.db"
