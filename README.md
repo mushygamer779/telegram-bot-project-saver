@@ -1,7 +1,11 @@
+# A first-level heading
 Project Portfolio Telegram Bot
+
+## A second-level heading
 A Telegram bot designed to help developers and creators manage their portfolio of projects. 
 This bot allows users to store project details, track development statuses, and list the technical skills used in each project.
 
+### A third-level heading
 Features:
   Project Management: Add, view, update, and delete projects from your personal portfolio.
   
